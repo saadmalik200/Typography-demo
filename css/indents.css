@@ -1,0 +1,39 @@
+/* FONTS */
+
+@font-face {
+  font-family: "Roboto";
+  src: url(../fonts/Roboto-Regular.ttf);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.section--blue {
+  border: 1px solid #5995da;
+}
+
+.section--blue h2 {
+  color: #5995da;
+}
+
+.paragraph-indent p:nth-of-type(1) {
+  margin-bottom: 0;
+}
+
+.text-indent {
+  text-indent: 2rem;
+}
+
+.section--red {
+  border: 1px solid #f09a9d;
+}
+.section--red h2 {
+  color: #d55c5f;
+}
+
+.section--red p {
+  text-indent: 10rem;
+}
+
+.section--red p:nth-of-type(1) {
+  margin-bottom: 5em;
+}
