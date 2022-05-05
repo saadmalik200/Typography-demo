@@ -1,4 +1,5 @@
 /* FONTS */
+/* @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;700&display=swap'); */
 
 @font-face {
   font-family: 'Roboto';
@@ -104,13 +105,24 @@ a:active {
 /* SECTIONS */
 
 .section {
+  max-width: 54rem;
+  margin: 4em auto;
+  padding: 2.5em 3em;
 }
 
 .section--gray {
+  border: 1px solid #d8cece;
 }
 
 .section h2 {
+  font-size: 3rem;
+  margin-bottom: 0.7em;
 }
 
-.section p {
+/* .section p {
+  margin-bottom: 1em;
 }
+
+.section p:last-child {
+  margin-bottom: 0;
+} */
