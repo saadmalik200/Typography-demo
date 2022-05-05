@@ -2,22 +2,22 @@
 /* @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;700&display=swap'); */
 
 @font-face {
-  font-family: 'Roboto';
-  src: url('../fonts/Roboto-Light-webfont.woff') format('woff');
+  font-family: "Roboto";
+  src: url("../fonts/Roboto-Light-webfont.woff") format("woff");
   font-style: normal;
   font-weight: 300;
 }
 
 @font-face {
-  font-family: 'Roboto';
-  src: url('../fonts/Roboto-LightItalic-webfont.woff') format('woff');
+  font-family: "Roboto";
+  src: url("../fonts/Roboto-LightItalic-webfont.woff") format("woff");
   font-style: italic;
   font-weight: 300;
 }
 
 @font-face {
-  font-family: 'Roboto';
-  src: url('../fonts/Roboto-Bold-webfont.woff') format('woff');
+  font-family: "Roboto";
+  src: url("../fonts/Roboto-Bold-webfont.woff") format("woff");
   font-style: bold;
   font-weight: 700;
 }
@@ -39,7 +39,7 @@ html {
 }
 
 body {
-  font-family: 'Roboto', sans-serif;
+  font-family: "Roboto", sans-serif;
   font-weight: 300;
   font-size: 1.8rem;
   line-height: 4rem;
@@ -126,3 +126,44 @@ a:active {
 .section p:last-child {
   margin-bottom: 0;
 } */
+/* * * * * * * * * * * * * * * * * * * * * * * */
+/* * * * * Room4 Line Length CSS Begin * * * */
+.section h2 {
+  font-size: 3rem;
+  margin-bottom: 0.7em;
+}
+.centerContent {
+  text-align: center;
+}
+.colorRed {
+  color: #d55c5e;
+}
+.colorBlue {
+  color: #5995da;
+}
+.section--blue {
+  border: 1px solid #b2d6ff;
+}
+.section--red {
+  border: 1px solid #f09a9d;
+}
+.maxWidth80 {
+  max-width: 92%;
+  margin: auto;
+  margin-bottom: 7rem;
+}
+.lineLength h1 {
+  font-size: 5rem;
+  font-weight: 700;
+  margin-bottom: 1.6rem;
+}
+/*  */
+.lineLength nav a {
+  color: #878e94;
+}
+.lineLength main > section:first-of-type > p:first-of-type,
+.lineLength main > section:last-of-type > p:not(p:last-of-type) {
+  margin-bottom: 1.2em;
+}
+/* * * *  Room4 Line Length CSS End * * * */
+/* * * * * * * * * * * * * * * * * * * * */
