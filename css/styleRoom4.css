@@ -21,13 +21,6 @@
   font-style: bold;
   font-weight: 700;
 }
-
-/* em,
-strong {
-  font-synthesis: none;
-} */
-
-/* SOFT RESET && BASE STYLES */
 * {
   margin: 0;
   padding: 0;
@@ -37,7 +30,6 @@ strong {
 html {
   font-size: 62.5%;
 }
-
 body {
   font-family: "Roboto", sans-serif;
   font-weight: 300;
@@ -45,7 +37,6 @@ body {
   line-height: 4rem;
   color: #5d6063;
 }
-
 h1,
 h2,
 h3 {
@@ -60,10 +51,6 @@ header {
   background-color: #5d6063;
   color: white;
   padding: 5em;
-}
-
-.hero h1 {
-  font-size: 5rem;
 }
 
 /* NAVIGATION */
@@ -110,19 +97,56 @@ a:active {
   padding: 2.5em 3em;
 }
 
-.section--gray {
-  border: 1px solid #d8cece;
-}
-
 .section h2 {
   font-size: 3rem;
   margin-bottom: 0.7em;
 }
 
 /* .section p {
-  margin-bottom: 1em;
+    margin-bottom: 1em;
+  }
+  
+  .section p:last-child {
+    margin-bottom: 0;
+  } */
+/* * * * * * * * * * * * * * * * * * * * * * * */
+/* * * * * Room4 Line Length CSS Begin * * * */
+.section h2 {
+  font-size: 3rem;
+  margin-bottom: 0.7em;
 }
-
-.section p:last-child {
-  margin-bottom: 0;
-} */
+.centerContent {
+  text-align: center;
+}
+.colorRed {
+  color: #d55c5e;
+}
+.colorBlue {
+  color: #5995da;
+}
+.section--blue {
+  border: 1px solid #b2d6ff;
+}
+.section--red {
+  border: 1px solid #f09a9d;
+}
+.maxWidth80 {
+  max-width: 92%;
+  margin: auto;
+  margin-bottom: 7rem;
+}
+.lineLength h1 {
+  font-size: 5rem;
+  font-weight: 700;
+  margin-bottom: 1.6rem;
+}
+/*  */
+.lineLength nav a {
+  color: #878e94;
+}
+.lineLength main > section:first-of-type > p:first-of-type,
+.lineLength main > section:last-of-type > p:not(p:last-of-type) {
+  margin-bottom: 1.2em;
+}
+/* * * *  Room4 Line Length CSS End * * * */
+/* * * * * * * * * * * * * * * * * * * * */
