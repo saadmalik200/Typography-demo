@@ -119,6 +119,27 @@ a:active {
   margin-bottom: 0.7em;
 }
 
+.ligaturediv{
+    text-align: center;
+    display: inline-block;
+    padding-top: 4rem;
+    padding-bottom: 4rem;
+}
+.ligature{
+    float: right;
+    padding-right: 15%;
+    margin-left: 1rem;
+}
+.ligaturep{
+    text-align: right;
+    padding-left: 8%;
+}
+.centrify{
+    text-align: center;
+}
+.justify{
+    text-align: justify;
+}
 /* .section p {
   margin-bottom: 1em;
 }
@@ -126,3 +147,11 @@ a:active {
 .section p:last-child {
   margin-bottom: 0;
 } */
+
+/* .ligature{
+    float: right;
+    position: absolute;
+    right: 1rem;
+}
+
+
