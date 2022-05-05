@@ -1,0 +1,44 @@
+Spacing 
+
+Give Your Elements Enough Room to Breath
+
+One of the easiest ways to make your web pages look more professional
+is to add bigger margins or padding between everything.
+
+By everything, we mean the space between headings, paragraphs, images,
+form controls, the vertical space between lines, the horizontal space
+between the edge of the page, and pretty much every other margin or
+padding you can think of.
+
+Consistent Spacing
+
+Using a consistent margin between headings, paragraphs,
+images, and other elements gives a vertical rhythm to the page. See
+how this button doesn’t seem to break the flow of the page?
+
+
+Learn More About Typography
+
+Consistent spacing makes your web page feel more like a cohesive
+whole, rather than a bunch of unrelated graphical elements.
+
+Without Enough Space, Things Feel Messy
+
+One of the easiest ways to make your web pages look less professional
+is to reduce margins or padding between everything.
+
+By everything, we mean the space between headings, paragraphs, images,
+form controls, the vertical space between lines, the horizontal space
+between the edge of the page, and pretty much every other margin or
+padding you can think of.
+
+Inconsistent Spacing
+
+Using an inconsistent margin between headings, paragraphs, images, and
+other elements destroys the vertical rhythm of a page. See how this
+button seems to break the flow of the page?
+
+Learn More About Typography
+
+The difference between the top and bottom margin makes it feel like it
+doesn’t fit in, and your web page is no longer a cohesive whole.

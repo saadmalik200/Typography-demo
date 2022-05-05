@@ -1,0 +1,34 @@
+Text Alignment
+
+Lorem ipsum dolor sit amet consectetur adipisicing elit. Nam sint
+veniam corporis! Itaque numquam, cum doloremque laborum ipsa ad sed
+aliquid consequuntur rerum recusandae iure, ab iste sint ullam libero!
+
+Left Alignment
+
+Left-aligned text is the standard because it gives the reader a
+vertical anchor to jump back to on every line. You should use it for
+most of your body text (unless you have a very good reason not to).
+
+Center Alignment
+
+Center-aligned text doesn’t have that anchor, so it’s easier for the
+eye to get lost when it tries to jump to the next line. Reserve it for
+special kinds of content, like poems, lyrics, and headings.
+
+Right Alignment
+
+Only use right-aligned text when it makes sense for the layout. For
+example, a caption for an image:
+
+These letters are touching. This is called a ligature.  [img]
+
+Of course, if you’re publishing content in a language that’s read
+right-to-left, that’s another story...
+
+Justified Alignment
+
+Justified text requires a good hyphenation engine. Without an
+intelligent way to split long words across lines, you get big spaces
+between words, which makes it harder to scan the text. Most browsers
+don’t have good built-in hyphenation engines.
