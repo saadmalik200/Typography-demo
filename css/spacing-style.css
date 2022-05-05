@@ -1,0 +1,86 @@
+
+
+body{
+    font-weight: 300;
+    font-size: 1.8rem;
+    font-family: sans-serif,'Roboto';
+}
+
+h2{
+    font-style: bold;
+}
+
+.section--blue{
+    border: 1px solid lightblue;
+    line-height:2.5em;
+  }
+
+  .section--blue>h2{
+    color: rgb(96, 137, 224);
+  }
+  .section--blue>p{
+    margin-top:15px;
+  }
+  .section--red{
+    border: 1px solid rgb(207, 77, 77);
+  }
+
+  .section--red>h2{
+    color: rgba(207, 96, 76, 0.904);
+  }
+
+  .button {
+      width:100%;
+      background-color:rgb(96, 137, 224);
+      font-weight:bold;
+      font-size: 2rem;
+      color: white;
+      height: 2.9em;
+      padding: 10px;
+      border-radius: 5px;
+      text-decoration: none;
+      text-align: center;
+      display: block;
+      margin:2rem auto;
+      border:none; 
+  }
+
+  #button-2{
+    height: 2.3em;
+
+  }
+  .button>a {
+      text-decoration: none;
+      color: white;
+  }
+
+
+  .button:hover{
+    color: #fff;
+    background-color: #6aa9f4;
+  }
+  .button:active{
+      background-color: rgb(79, 79, 226);
+  }
+
+.third{
+line-height: 2.5rem;
+margin-bottom:20px;
+}
+
+#fourth{
+margin-bottom:5px;
+}
+
+ .last{
+    line-height: 3rem;
+    
+}
+
+ .two{
+    margin-top:35px;
+}
+
+.second{
+    line-height: 3.8rem;
+}
