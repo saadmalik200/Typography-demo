@@ -13,13 +13,17 @@
   .ligaturep{
       text-align: right;
       padding-left: 8%;
-  }
-  .centrify{
+      font-style: italic;
+}
+  .center{
       text-align: center;
-  }
+}
   .justify{
       text-align: justify;
-  }
+}
+.leftalign {
+  text-align: left;
+}
 
   
   
