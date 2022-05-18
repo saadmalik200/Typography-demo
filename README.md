@@ -5,7 +5,7 @@
 ## Table of contents
 
 - [Overview](#overview)
-  - [Links](#links)
+  - [Link](#link)
   - [Challenge](#challenge)
   - [Screenshot](#screenshot)
 
@@ -26,7 +26,7 @@ demo on web typography that examines:
 - text alignment
 - proper indendation, spacing, and line length.
 
-### Links
+### Link
 
 - Live Site URL: [https://saadmalik200.github.io/Typography-demo/](https://saadmalik200.github.io/Typography-demo/)
 
