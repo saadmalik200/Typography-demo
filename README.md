@@ -17,7 +17,7 @@
 
 ## Overview
 
-### challenge
+### Challenge
 
 demo on web typography that examines:
 
